@@ -1,5 +1,4 @@
 import React from "react";
-import { Stack } from "expo-router";
 import { Slot } from "expo-router";
 import { StatusBar } from "expo-status-bar";
 import { useColorScheme } from "react-native";
